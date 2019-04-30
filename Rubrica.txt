@@ -1,7 +1,0 @@
-Alessio|Aldera|1112223333
-Alfonso|Mazzarella|3203718397
-Bianca|Massari|0001112222
-Cecilia|Acaso|1234567890
-Enzo|Salvi|1122334455
-Gianpiero|Maruzzi|1234567890
-Lorenzo|Avallone|3334445555
